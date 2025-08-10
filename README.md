@@ -20,6 +20,7 @@
 ![Youngsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YS-2357&show_icons=true&theme=default)
 
 ## 🗂️ Projects
+- [2025-GEOPage](https://github.com/gyurili/2025-GEO-Project): LLM, GEO/SEO, AI image generation, review analysis, e-commerce
 - [2025-LLM-Project](https://github.com/gyurili/2025-LLM-Project): LangChain-based document RAG system with prompt tuning, FAISS/Chroma vector DB, and Streamlit UI.
 - [2025-pill-detection](https://github.com/codeit-Al-Project1/pill_detection_ai): Object detection-based pill classification system using Faster R-CNN and YOLOv8.
 - [Coding_Test](https://github.com/YS-2357/Coding_Test): My solved problems and notes on algorithm practice (Baekjoon, Programmers, etc.).  
