@@ -16,24 +16,24 @@ AI 개발 프로세스를 구축해왔습니다.
 
 ### **AI / NLP**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=flat)
 ![Chroma](https://img.shields.io/badge/Chroma-00C897?style=flat)
 
 ### **Backend / Infra**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash-06B6D4?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### **Tools**
-![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 ![LangSmith](https://img.shields.io/badge/LangSmith-2A2B2D?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
