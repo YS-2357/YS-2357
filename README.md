@@ -67,6 +67,6 @@ AI 개발 프로세스를 구축해왔습니다.
 ---
 
 ## 📈 GitHub Stats
-![Youngsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YS-2357)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YS-2357)
+![Youngsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YS-2357&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YS-2357&layout=compact&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YS-2357&theme=default)
