@@ -38,7 +38,7 @@ AI 개발 프로세스를 구축해왔습니다.
 ---
 
 ## 🗂️ Projects
-- [compare-ai (BE)](https://github.com/YS-2357/compare-ai): 여러 상용 LLM 응답을 병렬로 비교·요약하는 Compare-AI 서비스.
+- [Compare-AI](https://github.com/YS-2357/compare-ai): 여러 상용 LLM 응답을 병렬로 비교·요약하는 Compare-AI 서비스.
 - [2025-GEO-Page](https://github.com/gyurili/2025-GEO-Project): LLM + AI 이미지 기반의 GEO/SEO 최적화 상세페이지 자동 생성기.  
 - [2025-RAG-Project](https://github.com/gyurili/2025-LLM-Project): LangChain 기반 문서 RAG 시스템(프롬프트 튜닝, FAISS/Chroma, Streamlit UI).  
 - [2025-pill-detection](https://github.com/codeit-Al-Project1/pill_detection_ai): Faster R-CNN·YOLOv8 기반 알약 객체 감지·분류 모델.  
