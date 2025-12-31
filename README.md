@@ -8,7 +8,7 @@ AI 개발 프로세스를 구축해왔습니다.
 - 📫 Email: **joungyoungsun20@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/youngsun-joung-5b0584345  
 - ✍️ Velog: https://velog.io/@ys2357/posts  
-- 📝 Portfolio: https://yslab-32e49.web.app/
+- 📝 Portfolio: https://youngsun-joung.web.app/
 
 ---
 
