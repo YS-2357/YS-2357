@@ -1,58 +1,90 @@
-# ✨ Youngsun Joung — AI Agent Architect
+<div align="center">
 
-Math M.S. with hands-on AI product delivery.
-I design and build practical AI agent systems with a team-first mindset.
+# Youngsun Joung · 정영선
 
-- 🎯 Target Role: **Junior AI Agent Architect (Seoul)**
-- 📫 Primary Contact: **joungyoungsun20@gmail.com**
-- 📝 Portfolio (Recommended): https://youngsun-joung.web.app/
-- 🔗 LinkedIn: https://www.linkedin.com/in/youngsun-joung-5b0584345
-- ✍️ Velog: https://velog.io/@ys2357/posts
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2F2F2F&center=true&vCenter=true&width=520&lines=AI+Engineer+%40+Megazone+Cloud;AWS+GenAI+Professional+(AIP-C01);LLM+%26+Agent+Systems+Builder;M.S.+Mathematics+%C2%B7+Korea+Univ.)](https://git.io/typing-svg)
 
-### 🔧 Tech Stack
+[Portfolio](https://youngsun-joung.web.app/) · [LinkedIn](https://www.linkedin.com/in/youngsun-joung-5b0584345) · [Velog](https://velog.io/@ys2357/posts) · joungyoungsun20@gmail.com
 
-#### AI / NLP
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+</div>
+
+---
+
+I build production AI systems at Megazone Cloud's AI Architect Unit — AI agents, cloud infrastructure, and full-stack deployment. My M.S. in Mathematics (Korea University) gives depth in optimization and evaluation, bridging research and production.
+
+> Currently exploring: agentic AI systems, cloud-native ML infrastructure, and full-stack AI deployment.
+
+---
+
+### Projects
+
+| | Project | Stack | Description |
+|---|---------|-------|-------------|
+| LLM | [Compare-AI](https://github.com/YS-2357/compare-ai) | FastAPI · LangGraph · React | 단일 쿼리로 8개 LLM을 병렬 호출해 응답을 실시간 비교·요약 |
+| GEO | [GEOPage](https://github.com/gyurili/2025-GEO-Project) | LangChain · FastAPI | GEO 최적화 기반 소상공인 상세페이지 자동 생성 — 장관상 수상 |
+| RAG | [RFPilot](https://github.com/gyurili/2025-LLM-Project) | LangChain · FAISS · Streamlit | Hybrid Search + Re-ranking 기반 RFP 문서 요약·질의응답 |
+| CV | [Pill Detection](https://github.com/codeit-Al-Project1/pill_detection_ai) | YOLOv8 · PyTorch | YOLOv8 기반 알약 객체 탐지 파이프라인 |
+| DSA | [Coding Test](https://github.com/YS-2357/Coding_Test) | Python | Algorithm archive — BOJ / Programmers / LeetCode |
+
+---
+
+### Tech Stack
+
+**AI & Agents**  
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Strands SDK](https://img.shields.io/badge/Strands_SDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AgentCore](https://img.shields.io/badge/AgentCore-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=flat)
-![Chroma](https://img.shields.io/badge/Chroma-00C897?style=flat)
 
-#### Backend / Infra
+**AI Dev Tools**  
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**Cloud & Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Engineering**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-06B6D4?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-#### Tools
-![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![LangSmith](https://img.shields.io/badge/LangSmith-2A2B2D?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+---
 
-### 🗂️ Projects
-- [Compare-AI](https://github.com/YS-2357/compare-ai): Compare and summarize responses from multiple commercial AI models in parallel.
-- [2025-GEO-Page](https://github.com/gyurili/2025-GEO-Project): GEO/SEO-optimized product-page auto-generator using AI + image pipeline.
-- [2025-RAG-Project](https://github.com/gyurili/2025-LLM-Project): Document QA system with prompt tuning, vector search, and Streamlit UI.
-- [2025-pill-detection](https://github.com/codeit-Al-Project1/pill_detection_ai): Pill detection/classification with Faster R-CNN and YOLOv8.
-- [Coding_Test](https://github.com/YS-2357/Coding_Test): Algorithm archive (BOJ / Programmers / LeetCode).
+### Experience
 
-### 🎓 Education
-- **M.S. Mathematics**, Korea University — GPA **4.24 / 4.5**
-  - Thesis: *Representations of the Temperley–Lieb Algebra*
-- **B.S. Mathematics**, Inha University — GPA **3.90 / 4.5**
+- **AI Architect Unit · Manager**, Megazone Cloud
+- **AI Engineer Intern**, Intalk — Insurance analysis automation
+- **Team Lead (3×)**, Codeit AI Sprint — Object Detection / RAG / Generative AI
 
-### 💼 Experience
-- **AI Engineer Intern**, Intalk — Insurance analysis automation system research/development
-- **Team Lead (3×)**, Codeit AI Sprint — Led Object Detection / QA System / Generative AI tracks
+### Education
 
-### 🏆 Awards
-- **3rd place, 7th K-Digital Training Hackathon (out of 389 teams)** — Minister of Employment and Labor Award
-- **Bronze, 2013 National Undergraduate Mathematics Competition** — Korean Mathematical Society
+- **M.S. Mathematics**, Korea University — GPA 4.24 / 4.5 · Thesis: *Representations of the Temperley–Lieb Algebra*
+- **B.S. Mathematics**, Inha University — GPA 3.90 / 4.5
 
-### 📈 GitHub Stats
-![Youngsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YS-2357&show_icons=true&theme=default)
+### Certifications & Awards
+
+- AWS Certified AI Practitioner — GenAI Professional (AIP-C01 Beta, Early Adopter)
+- **3rd / 389 teams**, 7th K-Digital Training Hackathon — Minister of Employment and Labor Award
+- Bronze, 2013 National Undergraduate Mathematics Competition — Korean Mathematical Society
+
+---
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=YS-2357&theme=flat&no-frame=true&row=1&column=6&margin-w=4)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YS-2357&show_icons=true&theme=default)
+&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YS-2357&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YS-2357&theme=default)
+
+</div>
