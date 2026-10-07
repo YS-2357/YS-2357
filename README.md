@@ -69,6 +69,7 @@ I build production AI systems at Megazone Cloud's AI Architect Unit — AI agent
 
 ### Certifications & Awards
 
+- AWS Certified Solutions Architect — Professional (SAP-C02), Sep 2026
 - AWS Certified AI Practitioner — GenAI Professional (AIP-C01 Beta, Early Adopter)
 - **3rd / 389 teams**, 7th K-Digital Training Hackathon — Minister of Employment and Labor Award
 - Bronze, 2013 National Undergraduate Mathematics Competition — Korean Mathematical Society
