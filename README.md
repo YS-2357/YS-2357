@@ -2,7 +2,12 @@
 
 # Youngsun Joung · 정영선
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2F2F2F&center=true&vCenter=true&width=520&lines=AI+Engineer+%40+Megazone+Cloud;AWS+GenAI+Professional+(AIP-C01);AWS+Solutions+Architect+Professional+(SAP-C02);LLM+%26+Agent+Systems+Builder;M.S.+Mathematics+%C2%B7+Korea+Univ.)](https://git.io/typing-svg)
+<a href="https://youngsun-joung.web.app/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1200&amp;color=F2F2F2&amp;center=true&amp;vCenter=true&amp;width=420&amp;lines=AI+Engineer+%C2%B7+AWS+GenAI+%26+Deployment%3BLLM+%C2%B7+RAG+%C2%B7+Agent+Systems">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1200&amp;color=2F2F2F&amp;center=true&amp;vCenter=true&amp;width=420&amp;lines=AI+Engineer+%C2%B7+AWS+GenAI+%26+Deployment%3BLLM+%C2%B7+RAG+%C2%B7+Agent+Systems" alt="AI Engineer · AWS GenAI &amp; Deployment · LLM, RAG and Agent Systems">
+</picture>
+</a>
 
 [Portfolio](https://youngsun-joung.web.app/) · [LinkedIn](https://www.linkedin.com/in/youngsun-joung-5b0584345) · [Velog](https://velog.io/@ys2357/posts) · joungyoungsun20@gmail.com
 
@@ -18,9 +23,6 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
 <h3><img src="assets/icons/briefcase-business.svg" width="20" height="20" alt=""> Experience</h3>
 <ul>
 <li><strong>Megazone Cloud</strong>
@@ -30,8 +32,7 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <ul><li><sub>AI Engineer Intern · 2025.11 – 2026.01</sub></li><li><sub>Insurance analysis automation</sub></li></ul>
 </li>
 </ul>
-</td>
-<td width="50%" valign="top">
+
 <h3><img src="assets/icons/badge-check.svg" width="20" height="20" alt=""> Certifications</h3>
 <ul>
 <li><strong>AWS Solutions Architect — Professional</strong>
@@ -41,9 +42,6 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <ul><li><sub>Mar 2026 · GenAI Early Adopter badge</sub></li></ul>
 </li>
 </ul>
-</td>
-</tr>
-</table>
 
 ### Tech Stack
 
@@ -58,9 +56,10 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 
 ### Projects
 
-| Featured Project | Description | Stack |
-|---|---|---|
-| **[GEOPage](https://github.com/gyurili/2025-GEO-Project)** | <ul><li>생성형 AI 기반 소상공인 상세페이지 자동 생성</li><li><strong>고용노동부 장관상 (자유과제 우수상)</strong><br><sub>제7회 K-Digital Training Hackathon</sub></li></ul> | LangChain · FastAPI |
+- **[GEOPage](https://github.com/gyurili/2025-GEO-Project)**
+  - 생성형 AI 기반 소상공인 상세페이지 자동 생성
+  - **고용노동부 장관상 (자유과제 우수상)** · 제7회 K-Digital Training Hackathon
+  - `LangChain` · `FastAPI`
 
 <details>
 <summary>Other Projects</summary>
@@ -76,9 +75,6 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
 <h3><img src="assets/icons/graduation-cap.svg" width="20" height="20" alt=""> Education</h3>
 <ul>
 <li><strong>Korea University</strong>
@@ -91,8 +87,7 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <ul><li><sub>Completed · 2025</sub></li></ul>
 </li>
 </ul>
-</td>
-<td width="50%" valign="top">
+
 <h3><img src="assets/icons/trophy.svg" width="20" height="20" alt=""> Awards</h3>
 <ul>
 <li><strong>7th K-Digital Training Hackathon</strong>
@@ -102,9 +97,6 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <ul><li><sub>대학생 수학 경시대회 · Bronze · 2013</sub></li><li><sub>Korean Mathematical Society</sub></li></ul>
 </li>
 </ul>
-</td>
-</tr>
-</table>
 
 ### GitHub Activity
 
