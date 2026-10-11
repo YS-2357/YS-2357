@@ -47,11 +47,11 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 
 | Area | Technologies |
 |---|---|
-| **AWS · GenAI & Deployment** | ![AWS](assets/tech-stack/aws.svg) ![Amazon Bedrock](assets/tech-stack/bedrock.svg) ![Strands SDK](https://img.shields.io/badge/Strands_SDK-FF9900?style=flat) ![AgentCore](https://img.shields.io/badge/AgentCore-FF9900?style=flat) |
+| **AWS · GenAI & Deployment** | ![AWS](assets/tech-stack/aws.svg) ![Amazon Bedrock](assets/tech-stack/bedrock.svg) ![Strands SDK](assets/tech-stack/strands.svg) ![AgentCore](assets/tech-stack/agentcore.svg) |
 | **AI Frameworks** | ![LangChain](assets/tech-stack/langchain.svg) ![LangGraph](assets/tech-stack/langgraph.svg) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **App Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Other Cloud** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Languages** | ![Python](assets/tech-stack/python.svg) ![TypeScript](assets/tech-stack/typescript.svg) |
+| **App Frameworks** | ![FastAPI](assets/tech-stack/fastapi.svg) ![Streamlit](assets/tech-stack/streamlit.svg) ![React](assets/tech-stack/react.svg) |
+| **Other Cloud** | ![Google Cloud](assets/tech-stack/googlecloud.svg) ![Firebase](assets/tech-stack/firebase.svg) |
 | **Development Tools** | ![Claude](assets/tech-stack/claude.svg) ![Codex](assets/tech-stack/codex.svg) ![Kiro](assets/tech-stack/kiro.svg) ![Antigravity](assets/tech-stack/antigravity.svg) |
 
 ### Projects

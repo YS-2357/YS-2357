@@ -11,8 +11,47 @@ AWS 배지는 자유 이용 라이선스의 아이콘이 아니다. 해당 자�
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional
 
-Tech Stack 로고: LobeHub Lobe Icons (MIT). 기존 배지 색상과 높이를 유지하고 로고를 흰색으로 표시했다.
-출처: https://github.com/lobehub/lobe-icons/tree/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons
-전체 저작권·라이선스 고지: tech-stack/LICENSE.txt
-배지 생성: https://shields.io/ (SVG 결과를 저장했다.)
-로고의 상표권은 각 소유자에게 있으며 사용 제품을 식별하기 위해 표시한다.
+Tech Stack 배지: 높이 20px, Arial Bold(700). 제품의 대표색을 배경에 사용하고 명암에 따라 글자색을 정했다. 다색 로고인 Antigravity와 흑백 Codex는 중립 배경을 사용한다. 로고 영역은 흰색으로 두어 원래 색상이 보이도록 했다.
+
+AWS: #FF9900
+출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/aws-color.svg
+Amazon Bedrock: #01A88D
+출처: https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/Bedrock.png
+Strands SDK: #00CC60
+출처: https://strandsagents.com/latest/assets/logo-github.svg
+AgentCore: #01A88D
+출처: https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/BedrockAgentCore.png
+LangChain: #7FC8FF
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/langchain.svg
+LangGraph: #7FC8FF
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/langgraph.svg
+Python: #3776AB
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/python.svg
+TypeScript: #3178C6
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/typescript.svg
+FastAPI: #009688
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/fastapi.svg
+Streamlit: #FF4B4B
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/streamlit.svg
+React: #61DAFB
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/react.svg
+Google Cloud: #4285F4
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/googlecloud.svg
+Firebase: #DD2C00
+출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/firebase.svg
+Claude: #D97757
+출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/claude-color.svg
+Codex: #000000
+출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/codex.svg
+Kiro: #9046FF
+출처: https://kiro.dev/icon.svg
+Antigravity: #FFFFFF
+출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/antigravity-color.svg
+
+LobeHub 로고 (AWS, Claude, Codex, Antigravity): MIT, tech-stack/LICENSE.txt.
+Simple Icons (LangChain, LangGraph, Python, TypeScript, FastAPI, Streamlit, React, Google Cloud, Firebase): CC0, 제품 도안을 브랜드 대표색으로 표시했다.
+색상·공식 원출처: https://github.com/simple-icons/simple-icons/blob/develop/data/simple-icons.json
+Strands, Kiro: 공식 사이트의 SVG 원본.
+Bedrock, AgentCore: AWS Labs의 AWS 공식 아키텍처 아이콘 PNG 원본.
+사용 안내: https://aws.amazon.com/architecture/icons/
+로고의 상표권은 각 소유자에게 있다. 제품 사용을 표시하며 제휴·후원을 뜻하지 않는다.
