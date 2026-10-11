@@ -11,7 +11,7 @@ AWS 배지는 자유 이용 라이선스의 아이콘이 아니다. 해당 자�
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional
 
-Tech Stack 배지: 높이 20px, Arial Bold(700). 제품의 대표색을 배경에 사용하고 명암에 따라 글자색을 정했다. 다색 로고인 Antigravity와 흑백 Codex는 중립 배경을 사용한다. 로고 영역은 흰색으로 두어 원래 색상이 보이도록 했다.
+Tech Stack 배지: 높이 20px, Verdana Regular(400). 제품의 대표색을 배경에 사용하고 명암에 따라 글자색을 정했다. 다색 로고인 Antigravity는 흰색 배경을 사용한다. Codex는 파랑·보라 그라데이션 아이콘과 그 도안의 파란색을 배경에 사용한다. 이 값은 단일 공식 브랜드 색상으로 선언된 값이 아니다. 로고 영역은 흰색으로 두어 원래 색상이 보이도록 했다.
 
 AWS: #FF9900
 출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/aws-color.svg
@@ -41,8 +41,8 @@ Firebase: #DD2C00
 출처: https://raw.githubusercontent.com/simple-icons/simple-icons/dc7b10662a0a2cfdfc9305e2a2b06c023c30724a/icons/firebase.svg
 Claude: #D97757
 출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/claude-color.svg
-Codex: #000000
-출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/codex.svg
+Codex: #3941FF (컬러 도안에서 가져온 배지 배경색)
+출처: https://raw.githubusercontent.com/lobehub/lobe-icons/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons/codex-color.svg
 Kiro: #9046FF
 출처: https://kiro.dev/icon.svg
 Antigravity: #FFFFFF
@@ -55,3 +55,7 @@ Strands, Kiro: 공식 사이트의 SVG 원본.
 Bedrock, AgentCore: AWS Labs의 AWS 공식 아키텍처 아이콘 PNG 원본.
 사용 안내: https://aws.amazon.com/architecture/icons/
 로고의 상표권은 각 소유자에게 있다. 제품 사용을 표시하며 제휴·후원을 뜻하지 않는다.
+
+2026-10-11 육안 확인: 설치된 공식 ChatGPT 앱의 Resources/icon-codex-light.png와 icon-codex-dark-color.png는 파랑·보라 그라데이션이다. LobeHub 컬러 도안과 형태·색상 계열을 비교했다.
+LangChain·LangGraph: 공식 브랜드 페이지의 Open Source Framework Logos에서 연결 고리·네 방향 도안을 확인했다.
+출처: https://www.langchain.com/brand-assets
