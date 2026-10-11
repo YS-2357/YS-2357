@@ -98,7 +98,7 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <li><strong>7th K-Digital Training Hackathon</strong>
 <ul><li><sub>Minister of Employment and Labor Award</sub></li><li><sub>3rd / 389 teams</sub></li></ul>
 </li>
-<li><strong>National Undergraduate Mathematics Competition</strong>
+<li><strong>Mathematics Competition for University Students in Korea</strong>
 <ul><li><sub>대학생 수학 경시대회 · Bronze · 2013</sub></li><li><sub>Korean Mathematical Society</sub></li></ul>
 </li>
 </ul>
