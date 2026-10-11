@@ -10,3 +10,9 @@ AWS 배지는 자유 이용 라이선스의 아이콘이 아니다. 해당 자�
 사용 규칙: https://aws.amazon.com/certification/policies/general-policies/
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional
+
+Tech Stack 로고: LobeHub Lobe Icons (MIT). 기존 배지 색상과 높이를 유지하고 로고를 흰색으로 표시했다.
+출처: https://github.com/lobehub/lobe-icons/tree/c385b2b8d1f9e19aa86e628d4e23c91ee1111a47/packages/static-svg/icons
+전체 저작권·라이선스 고지: tech-stack/LICENSE.txt
+배지 생성: https://shields.io/ (SVG 결과를 저장했다.)
+로고의 상표권은 각 소유자에게 있으며 사용 제품을 식별하기 위해 표시한다.

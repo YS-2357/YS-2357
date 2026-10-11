@@ -47,12 +47,12 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 
 | Area | Technologies |
 |---|---|
-| **AWS · GenAI & Deployment** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat) ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat) ![Strands SDK](https://img.shields.io/badge/Strands_SDK-FF9900?style=flat) ![AgentCore](https://img.shields.io/badge/AgentCore-FF9900?style=flat) |
-| **AI Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat) |
+| **AWS · GenAI & Deployment** | ![AWS](assets/tech-stack/aws.svg) ![Amazon Bedrock](assets/tech-stack/bedrock.svg) ![Strands SDK](https://img.shields.io/badge/Strands_SDK-FF9900?style=flat) ![AgentCore](https://img.shields.io/badge/AgentCore-FF9900?style=flat) |
+| **AI Frameworks** | ![LangChain](assets/tech-stack/langchain.svg) ![LangGraph](assets/tech-stack/langgraph.svg) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | **App Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
 | **Other Cloud** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Development Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat) ![Kiro](https://img.shields.io/badge/Kiro-FF9900?style=flat) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat) |
+| **Development Tools** | ![Claude](assets/tech-stack/claude.svg) ![Codex](assets/tech-stack/codex.svg) ![Kiro](assets/tech-stack/kiro.svg) ![Antigravity](assets/tech-stack/antigravity.svg) |
 
 ### Projects
 
