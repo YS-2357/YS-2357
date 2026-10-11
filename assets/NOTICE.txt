@@ -1,0 +1,12 @@
+아이콘·배지 출처와 사용 조건
+
+일반 업무·자격·학업·수상 아이콘: Lucide Icons (ISC). 아이콘 선 색상만 변경했다.
+출처: https://github.com/lucide-icons/lucide
+전체 저작권·라이선스 고지: icons/LICENSE.txt
+
+AWS 배지: Amazon Web Services Training and Certification의 공식 Credly 배지 원본.
+AWS 배지는 자유 이용 라이선스의 아이콘이 아니다. 해당 자격 보유자가 자신의 자격을 표시할 때 AWS 사용 규칙을 따라 사용한다.
+배지 이미지의 색·내용·모양은 변경하지 않았다. Credly 링크는 자격 종류 안내이며 개인 취득 검증 링크가 아니다.
+사용 규칙: https://aws.amazon.com/certification/policies/general-policies/
+출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional
+출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional

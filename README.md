@@ -6,86 +6,120 @@
 
 [Portfolio](https://youngsun-joung.web.app/) · [LinkedIn](https://www.linkedin.com/in/youngsun-joung-5b0584345) · [Velog](https://velog.io/@ys2357/posts) · joungyoungsun20@gmail.com
 
+<p align="center"><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional"><img src="assets/badges/aws-solutions-architect-professional.png" width="72" height="72" alt="AWS Certified Solutions Architect — Professional"></a> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><img src="assets/badges/aws-generative-ai-developer-professional.png" width="72" height="72" alt="AWS Certified Generative AI Developer — Professional"></a></p>
+
 </div>
 
 ---
 
-I build production AI systems at Megazone Cloud's AI Architect Unit — AI agents, cloud infrastructure, and full-stack deployment. My M.S. in Mathematics (Korea University) gives depth in optimization and evaluation, bridging research and production.
+I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Mathematics from Korea University.
 
 > Currently exploring: agentic AI systems, cloud-native ML infrastructure, and full-stack AI deployment.
 
 ---
 
-### Projects
-
-| | Project | Stack | Description |
-|---|---------|-------|-------------|
-| LLM | [Compare-AI](https://github.com/YS-2357/compare-ai) | FastAPI · LangGraph · React | 단일 쿼리로 8개 LLM을 병렬 호출해 응답을 실시간 비교·요약 |
-| GEO | [GEOPage](https://github.com/gyurili/2025-GEO-Project) | LangChain · FastAPI | GEO 최적화 기반 소상공인 상세페이지 자동 생성 — 장관상 수상 |
-| RAG | [RFPilot](https://github.com/gyurili/2025-LLM-Project) | LangChain · FAISS · Streamlit | Hybrid Search + Re-ranking 기반 RFP 문서 요약·질의응답 |
-| CV | [Pill Detection](https://github.com/codeit-Al-Project1/pill_detection_ai) | YOLOv8 · PyTorch | YOLOv8 기반 알약 객체 탐지 파이프라인 |
-| DSA | [Coding Test](https://github.com/YS-2357/Coding_Test) | Python | Algorithm archive — BOJ / Programmers / LeetCode |
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="assets/icons/briefcase-business.svg" width="20" height="20" alt=""> Experience</h3>
+<ul>
+<li><strong>Megazone Cloud</strong>
+<ul><li><sub>AI Architect Unit · Manager · 2026.02 – Present</sub></li></ul>
+</li>
+<li><strong>Intalk</strong>
+<ul><li><sub>AI Engineer Intern · 2025.11 – 2026.01</sub></li><li><sub>Insurance analysis automation</sub></li></ul>
+</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3><img src="assets/icons/badge-check.svg" width="20" height="20" alt=""> Certifications</h3>
+<ul>
+<li><strong>AWS Solutions Architect — Professional</strong>
+<ul><li><sub>Sep 2026</sub></li></ul>
+</li>
+<li><strong>AWS Generative AI Developer — Professional</strong>
+<ul><li><sub>Mar 2026 · GenAI Early Adopter badge</sub></li></ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ### Tech Stack
 
-**AI & Agents**  
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Strands SDK](https://img.shields.io/badge/Strands_SDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![AgentCore](https://img.shields.io/badge/AgentCore-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat)
+| Area | Technologies |
+|---|---|
+| **AWS · GenAI & Deployment** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat) ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat) ![Strands SDK](https://img.shields.io/badge/Strands_SDK-FF9900?style=flat) ![AgentCore](https://img.shields.io/badge/AgentCore-FF9900?style=flat) |
+| **AI Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **App Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Other Cloud** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Development Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat) ![Kiro](https://img.shields.io/badge/Kiro-FF9900?style=flat) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat) |
 
-**AI Dev Tools**  
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-FF9900?style=flat&logo=amazonaws&logoColor=white)
+### Projects
 
-**Cloud & Infra**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+| Featured Project | Description | Stack |
+|---|---|---|
+| **[GEOPage](https://github.com/gyurili/2025-GEO-Project)** | <ul><li>생성형 AI 기반 소상공인 상세페이지 자동 생성</li><li><strong>고용노동부 장관상 (자유과제 우수상)</strong><br><sub>제7회 K-Digital Training Hackathon</sub></li></ul> | LangChain · FastAPI |
 
-**Engineering**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<details>
+<summary>Other Projects</summary>
 
----
+| Project | Description |
+|---------|-------------|
+| [RFPilot](https://github.com/gyurili/2025-LLM-Project) | RFP 문서 요약·질의응답 RAG 서비스 |
+| [Pill Detection](https://github.com/codeit-Al-Project1/pill_detection_ai) | YOLOv8 기반 알약 객체 탐지 |
+| [Compare-AI](https://github.com/YS-2357/compare-ai) | 여러 LLM의 응답 비교·요약 |
+| [Coding Test](https://github.com/YS-2357/Coding_Test) | Python algorithm archive |
 
-### Experience
-
-- **AI Architect Unit · Manager**, Megazone Cloud
-- **AI Engineer Intern**, Intalk — Insurance analysis automation
-- **Team Lead (3×)**, Codeit AI Sprint — Object Detection / RAG / Generative AI
-
-### Education
-
-- **M.S. Mathematics**, Korea University — GPA 4.24 / 4.5 · Thesis: *Representations of the Temperley–Lieb Algebra*
-- **B.S. Mathematics**, Inha University — GPA 3.90 / 4.5
-
-### Certifications & Awards
-
-- AWS Certified Solutions Architect — Professional (SAP-C02), Sep 2026
-- AWS Certified AI Practitioner — GenAI Professional (AIP-C01 Beta, Early Adopter), Mar 2026
-- **3rd / 389 teams**, 7th K-Digital Training Hackathon — Minister of Employment and Labor Award
-- Bronze, 2013 National Undergraduate Mathematics Competition — Korean Mathematical Society
+</details>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="assets/icons/graduation-cap.svg" width="20" height="20" alt=""> Education</h3>
+<ul>
+<li><strong>Korea University</strong>
+<ul><li><sub>M.S. Mathematics · GPA 4.24 / 4.5</sub></li><li><sub>Thesis: <em>Representations of the Temperley–Lieb Algebra</em></sub></li></ul>
+</li>
+<li><strong>Inha University</strong>
+<ul><li><sub>B.S. Mathematics · GPA 3.90 / 4.5</sub></li></ul>
+</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3><img src="assets/icons/trophy.svg" width="20" height="20" alt=""> Awards</h3>
+<ul>
+<li><strong>7th K-Digital Training Hackathon</strong>
+<ul><li><sub>Minister of Employment and Labor Award</sub></li><li><sub>3rd / 389 teams</sub></li></ul>
+</li>
+<li><strong>National Undergraduate Mathematics Competition</strong>
+<ul><li><sub>Bronze · 2013 · Korean Mathematical Society</sub></li></ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YS-2357&theme=flat&no-frame=true&row=1&column=6&margin-w=4)
+### GitHub Activity
 
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=YS-2357&amp;hide_border=true&amp;title_color=FF9900&amp;theme=dark&amp;show_icons=true&amp;hide_rank=true&amp;icon_color=FF9900">
+<img src="https://github-stats-extended.vercel.app/api?username=YS-2357&amp;hide_border=true&amp;title_color=FF9900&amp;theme=default&amp;show_icons=true&amp;hide_rank=true&amp;icon_color=FF9900" height="160" alt="GitHub public activity statistics">
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YS-2357&amp;hide_border=true&amp;title_color=FF9900&amp;theme=dark&amp;layout=compact&amp;langs_count=6">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YS-2357&amp;hide_border=true&amp;title_color=FF9900&amp;theme=default&amp;layout=compact&amp;langs_count=6" height="160" alt="Language distribution in public repositories">
+</picture>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YS-2357&show_icons=true&theme=default)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YS-2357&layout=compact&theme=default)
-
-</div>
+<sub>Language distribution reflects public repository contents, not proficiency.</sub>
