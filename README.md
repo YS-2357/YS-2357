@@ -87,6 +87,9 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <li><strong>Inha University</strong>
 <ul><li><sub>B.S. Mathematics · GPA 3.90 / 4.5</sub></li></ul>
 </li>
+<li><strong>Codeit AI Engineer Sprint</strong>
+<ul><li><sub>Completed · 2025</sub></li></ul>
+</li>
 </ul>
 </td>
 <td width="50%" valign="top">
@@ -96,7 +99,7 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <ul><li><sub>Minister of Employment and Labor Award</sub></li><li><sub>3rd / 389 teams</sub></li></ul>
 </li>
 <li><strong>National Undergraduate Mathematics Competition</strong>
-<ul><li><sub>Bronze · 2013 · Korean Mathematical Society</sub></li></ul>
+<ul><li><sub>대학생 수학 경시대회 · Bronze · 2013</sub></li><li><sub>Korean Mathematical Society</sub></li></ul>
 </li>
 </ul>
 </td>
