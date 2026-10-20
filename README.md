@@ -36,13 +36,13 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <h3><img src="assets/icons/badge-check.svg" width="20" height="20" alt=""> Certifications</h3>
 <ul>
 <li><strong>Claude Certified Architect — Foundations</strong>
-<ul><li><sub>Oct 19, 2026 · Valid for 1 year</sub></li></ul>
+<ul><li><sub>Oct 19, 2026</sub></li></ul>
 </li>
 <li><strong>AWS Solutions Architect — Professional</strong>
-<ul><li><sub>Sep 2026</sub></li></ul>
+<ul><li><sub>Sep 29, 2026</sub></li></ul>
 </li>
 <li><strong>AWS Generative AI Developer — Professional</strong>
-<ul><li><sub>Mar 2026 · GenAI Early Adopter badge</sub></li></ul>
+<ul><li><sub>Mar 31, 2026 · GenAI Early Adopter badge</sub></li></ul>
 </li>
 </ul>
 
