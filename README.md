@@ -11,7 +11,7 @@
 
 [Portfolio](https://youngsun-joung.web.app/) · [LinkedIn](https://www.linkedin.com/in/youngsun-joung-5b0584345) · [Velog](https://velog.io/@ys2357/posts) · joungyoungsun20@gmail.com
 
-<p align="center"><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional"><img src="assets/badges/aws-solutions-architect-professional.png" width="72" height="72" alt="AWS Certified Solutions Architect — Professional"></a> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><img src="assets/badges/aws-generative-ai-developer-professional.png" width="72" height="72" alt="AWS Certified Generative AI Developer — Professional"></a></p>
+<p align="center"><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional"><img src="assets/badges/aws-solutions-architect-professional.png" width="72" height="72" alt="AWS Certified Solutions Architect — Professional"></a> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><img src="assets/badges/aws-generative-ai-developer-professional.png" width="72" height="72" alt="AWS Certified Generative AI Developer — Professional"></a> <a href="https://www.credly.com/org/anthropic/badge/claude-certified-architect-foundations"><img src="assets/badges/claude-certified-architect-foundations.png" width="72" height="72" alt="Claude Certified Architect — Foundations"></a></p>
 
 </div>
 
@@ -35,6 +35,9 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 
 <h3><img src="assets/icons/badge-check.svg" width="20" height="20" alt=""> Certifications</h3>
 <ul>
+<li><strong>Claude Certified Architect — Foundations</strong>
+<ul><li><sub>Oct 19, 2026 · Valid for 1 year</sub></li></ul>
+</li>
 <li><strong>AWS Solutions Architect — Professional</strong>
 <ul><li><sub>Sep 2026</sub></li></ul>
 </li>

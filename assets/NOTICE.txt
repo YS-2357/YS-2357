@@ -11,6 +11,11 @@ AWS 배지는 자유 이용 라이선스의 아이콘이 아니다. 해당 자�
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional
 출처: https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional
 
+Claude Certified Architect — Foundations 배지: Anthropic의 공식 Credly 배지 원본.
+배지 이미지의 색·내용·모양은 변경하지 않았다. Credly 링크는 자격 종류 안내이며 개인 취득 검증 링크가 아니다.
+출처: https://www.credly.com/org/anthropic/badge/claude-certified-architect-foundations
+이미지 원본: https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob
+
 Tech Stack 배지: 높이 20px, Verdana Regular(400). 제품의 대표색을 배경에 사용하고 명암에 따라 글자색을 정했다. 다색 로고인 Antigravity는 흰색 배경을 사용한다. Codex는 파랑·보라 그라데이션 아이콘과 그 도안의 파란색을 배경에 사용한다. 이 값은 단일 공식 브랜드 색상으로 선언된 값이 아니다. 로고 영역은 흰색으로 두어 원래 색상이 보이도록 했다.
 
 AWS: #FF9900
