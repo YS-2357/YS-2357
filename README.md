@@ -11,7 +11,7 @@
 
 [Portfolio](https://youngsun-joung.web.app/) · [LinkedIn](https://www.linkedin.com/in/youngsun-joung-5b0584345) · [Velog](https://velog.io/@ys2357/posts) · joungyoungsun20@gmail.com
 
-<p align="center"><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional"><img src="assets/badges/aws-solutions-architect-professional.png" width="72" height="72" alt="AWS Certified Solutions Architect — Professional"></a> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><img src="assets/badges/aws-generative-ai-developer-professional.png" width="72" height="72" alt="AWS Certified Generative AI Developer — Professional"></a> <a href="https://www.credly.com/org/anthropic/badge/claude-certified-architect-foundations"><img src="assets/badges/claude-certified-architect-foundations.png" width="72" height="72" alt="Claude Certified Architect — Foundations"></a></p>
+<p align="center"><a href="https://www.credly.com/badges/cf570963-e9bf-4092-a8f7-507d364e75e6/public_url"><img src="assets/badges/aws-solutions-architect-professional.png" width="72" height="72" alt="AWS Certified Solutions Architect — Professional"></a> <a href="https://www.credly.com/badges/da186351-20d7-4b02-b92c-6bfcc67131c8/public_url"><img src="assets/badges/aws-generative-ai-developer-professional.png" width="72" height="72" alt="AWS Certified Generative AI Developer — Professional"></a> <a href="https://www.credly.com/badges/0a345420-190a-431d-98d0-76cb248c276f/public_url"><img src="assets/badges/claude-certified-architect-foundations.png" width="72" height="72" alt="Claude Certified Architect — Foundations"></a></p>
 
 </div>
 
@@ -42,7 +42,7 @@ I'm an AI engineer at **Megazone Cloud's AI Architect Unit**, with an M.S. in Ma
 <ul><li><sub>Sep 29, 2026</sub></li></ul>
 </li>
 <li><strong>AWS Generative AI Developer — Professional</strong>
-<ul><li><sub>Mar 31, 2026 · GenAI Early Adopter badge</sub></li></ul>
+<ul><li><sub>Mar 31, 2026 · <a href="https://www.credly.com/badges/03f097fd-db1c-426d-aff7-7318eb47329c/public_url">GenAI Early Adopter badge</a></sub></li></ul>
 </li>
 </ul>
 
